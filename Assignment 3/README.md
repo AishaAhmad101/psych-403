@@ -6,6 +6,7 @@ Yes, varibles show up on the variable editor
 No, there is no problem with two variables having the same character 
 No, changing aX did not change the value of the other variables
 Yes, changing the variable assignment changed 'A' to 'z'. Therefore, python variable assignment can change based on how it's defined
+
 Operation Exercise:
 1. Python does output the same values for (5/2) and (5.0/2.0)
 2. The modulo operator returns the remainder of the division of 2 numbers.
