@@ -1,5 +1,7 @@
 This is my set of answers to the assignment
+
 Variables exercise
+
 Yes, varibles show up on the variable editor 
 No, there is no problem with two variables having the same character 
 No, changing aX did not change the value of the other variables
