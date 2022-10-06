@@ -9,6 +9,7 @@ Variables operations exercises:
 (sub_code*3+subnr_str\*3)
 ((sub_code + subnr_str)3)
 
+
 list operations exercises:
 
 1. (numlist*2)
@@ -28,6 +29,7 @@ cuelist = ["cue1", "cue2"]*25
 counterbalanced = (list(zip(facelist, houselist, cuelist)) + list(zip(houselist, facelist, cuelist)))
 np.random.shuffle(counterbalanced)
 
+
 Indexing Exercises:
 
 1. colors = ["red", "orange", "yellow", "green", "blue", "purple"]
@@ -36,6 +38,7 @@ Indexing Exercises:
 4. colors.pop(5)
 colors.append("indigo")
 colors.append("violet")
+
 
 Slicing Exercises:
 
