@@ -7,6 +7,7 @@ Variables operations exercises:
 (sub_code, subnr_str\*3)
 ((sub_code + subnr_str)\*3)
 (sub_code*3+subnr_str\*3)
+((sub_code + subnr_str)3)
 
 list operations exercises:
 
