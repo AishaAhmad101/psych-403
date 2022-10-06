@@ -4,9 +4,9 @@ This is my set of answers to the assignment
 Variables operations exercises:
 
 1. We need to add the string form of subnr to sub. You can't add int to a string and that's why int form subnr doesn't work
-2. (sub_code, subnr_str) 8\n9
-   (sub_code, subnr_str*3)
-   ((sub_code + subnr_str)*3)
+2. (sub_code, subnr_str) 7\n8
+   (sub_code, subnr_str*3) 8\n9
+   ((sub_code + subnr_str)*3) 9\n10
    (sub_code*3+subnr_str*3)
 
 list operations exercises:
