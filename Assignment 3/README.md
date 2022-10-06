@@ -4,13 +4,13 @@ This is my set of answers to the assignment
 Variables operations exercises:
 
 1. We need to add the string form of subnr to sub. You can't add int to a string and that's why int form subnr doesn't work
-2. (sub_code, subnr_str) <br /> (sub_code, subnr_str*\3) <br />((sub_code + subnr_str)\*3)<br /> (sub_code*3+subnr_str\*3)
+2. (sub_code, subnr_str) <br /> (sub_code, subnr_str*3) <br />((sub_code + subnr_str)\*3)<br /> (sub_code*3+subnr_str\*3)
 
 list operations exercises:
 
 1. (numlist\*2)
 2. (numarr\*2) when you multiple a list you double, you repeat all the numbers in the list. When you multiple an array you multiple all the items in the array
-3. ([x*2 for x in strlist])
+3. ([x\*2 for x in strlist])
    (strlist*2)
    [item for sublist in [[x]*2 for x in (strlist)] for item in sublist]
    [[x]\*2 for x in (strlist)]
