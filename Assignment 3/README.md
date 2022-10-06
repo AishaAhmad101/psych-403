@@ -16,11 +16,11 @@ list operations exercises:
 2. (numarr*2) when you multiple a list you double, you repeat all the numbers in the list. When you multiple an array you multiple all the items in the array 
 3. ([x*2 for x in strlist])
 
-  (strlist*2)
+ (strlist*2)
 
-  [item for sublist in [[x]*2 for x in (strlist)] for item in sublist]
+ [item for sublist in [[x]*2 for x in (strlist)] for item in sublist]
 
-  [[x]*2 for x in (strlist)]
+ [[x]*2 for x in (strlist)]
 
 
 Zipping Exercises:
