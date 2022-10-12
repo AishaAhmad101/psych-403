@@ -16,8 +16,24 @@ else:
 
 ```
 Create a nested "if" statement in the above exercise. If the response is "1", print "Correct!". If the response is "2", print "Incorrect!"
-Test out your script with various responses. Does it do what you expect it to?
+```Python
+x = input("Enter Number: ")
 
+if(x == "1" or x == "2"):
+    
+    if(x=="1"):
+        print("correct")
+    elif(x=="2"):
+        print("incorrect")
+
+
+```
+Test out your script with various responses. Does it do what you expect it to?
+```Python
+
+Testing done
+
+```
 
 For loop exercises
 Remember the exercise where you printed each letter of your name? Create a for loop that prints each letter without writing out all of the print statements manually.
