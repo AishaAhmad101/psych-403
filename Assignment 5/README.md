@@ -1,4 +1,4 @@
-experiment structure exercises:
+Experiment structure exercises:
 
 See attached file
 
@@ -33,7 +33,7 @@ print(os.path.isdir(image_dir))
 #=====================
 #-check if files to be used during the experiment (e.g., images) exist
 for pic in pics:
-    if pic in os.listdir(image_dir):
-        print(pic + " was found!")
-    else:
-        raise Exception("The image lists do not match up!")
+if pic in os.listdir(image_dir):
+print(pic + " was found!")
+else:
+raise Exception("The image lists do not match up!")
