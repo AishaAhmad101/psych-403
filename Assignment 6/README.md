@@ -1,6 +1,3 @@
-Coolbeans
-#1823
-it eez what it eez
 Dialog box exercises:
 
 1.
@@ -205,4 +202,3 @@ for block in range(blocks):
 win.close()
 ```
 README.md
-6 KB
