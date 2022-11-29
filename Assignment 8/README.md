@@ -40,7 +40,6 @@ win.close()
 
 2.  If you put event.ClearEvents inside the trial loop it clears the keys in between the trials. If we unindent the line after "if keys:" we will get an indentation error because something needs to be indented after an if statement. Assuming we also remove the if statement after unindenting the line after "if keys:" we will get an error if the user inputs no keys as we will be trying to access index 0 of nothing.
 
-Psychtoolbox keypress exercises
 
 Recording data exercises:
 
