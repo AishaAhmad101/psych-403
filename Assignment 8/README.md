@@ -42,10 +42,6 @@ win.close()
 
 Psychtoolbox keypress exercises
 
-1. If we indent that line we will break the code as this line will then be at the same indentation as the subsequent lines. Event.getKeys returns a list of all pressed keys while "for key in keys" iterates through a list of keys.
-2. ?
-3. ?
-
 Recording data exercises:
 
 1.
